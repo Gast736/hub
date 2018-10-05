@@ -1,0 +1,9 @@
+a.txt
+
+oranges 
+kiwis 
+carrots  
+apples 
+oranges 
+kiwis 
+carrots 
